@@ -1,6 +1,7 @@
 # pizza_app_admin
 
 A new Flutter project.
+An interactive admin panel which allows admin user to upload new Pizza catalogue, and which will directly displayed on Pizza mobile app. 
 
 ## Getting Started
 
